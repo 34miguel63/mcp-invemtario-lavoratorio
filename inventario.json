@@ -1,0 +1,24 @@
+{
+  "articulos": [
+    {"id": 1, "nombre": "Cable de red UTP Cat6", "cantidad": 45, "unidad": "metros"},
+    {"id": 2, "nombre": "Multímetro digital", "cantidad": 8, "unidad": "unidades"},
+    {"id": 3, "nombre": "Protoboard 830 puntos", "cantidad": 15, "unidad": "unidades"},
+    {"id": 4, "nombre": "Resistencia 10kΩ", "cantidad": 200, "unidad": "unidades"},
+    {"id": 5, "nombre": "Resistencia 330Ω", "cantidad": 180, "unidad": "unidades"},
+    {"id": 6, "nombre": "LED rojo 5mm", "cantidad": 150, "unidad": "unidades"},
+    {"id": 7, "nombre": "LED verde 5mm", "cantidad": 120, "unidad": "unidades"},
+    {"id": 8, "nombre": "Placa Arduino Uno R3", "cantidad": 12, "unidad": "unidades"},
+    {"id": 9, "nombre": "Cable USB tipo B", "cantidad": 25, "unidad": "unidades"},
+    {"id": 10, "nombre": "Fuente de poder regulable 30V", "cantidad": 5, "unidad": "unidades"},
+    {"id": 11, "nombre": "Cautín de 40W", "cantidad": 10, "unidad": "unidades"},
+    {"id": 12, "nombre": "Estaño para soldar", "cantidad": 8, "unidad": "rollos"},
+    {"id": 13, "nombre": "Pinza de corte", "cantidad": 14, "unidad": "unidades"},
+    {"id": 14, "nombre": "Pinza de punta", "cantidad": 12, "unidad": "unidades"},
+    {"id": 15, "nombre": "Destornillador Phillips #2", "cantidad": 18, "unidad": "unidades"},
+    {"id": 16, "nombre": "Destornillador plano 5mm", "cantidad": 16, "unidad": "unidades"},
+    {"id": 17, "nombre": "Condensador electrolítico 100μF", "cantidad": 90, "unidad": "unidades"},
+    {"id": 18, "nombre": "Switch push button", "cantidad": 60, "unidad": "unidades"},
+    {"id": 19, "nombre": "Sensor de temperatura LM35", "cantidad": 20, "unidad": "unidades"},
+    {"id": 20, "nombre": "Batería 9V alcalina", "cantidad": 30, "unidad": "unidades"}
+  ]
+}

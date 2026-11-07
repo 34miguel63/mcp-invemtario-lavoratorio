@@ -1,0 +1,17 @@
+# Entorno virtual de Python (no se sube: se recrea con python -m venv venv)
+venv/
+env/
+
+# Bytecode y cachés de Python (generados automáticamente al ejecutar)
+__pycache__/
+*.pyc
+*.pyo
+
+# Backups y archivos generados durante las pruebas de registrar_solicitud
+inventario_backup.json
+*.zip
+*.log
+
+# Configuración local del editor (personal de cada integrante)
+.vscode/
+.idea/
